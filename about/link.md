@@ -11,6 +11,6 @@ https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/ma
 https://www.mouser.mx/ProductDetail/Intel-Altera/EPM570M100C5N?qs=%2fha2pyFaduhy3DJQl5nXcl1%252bNHo%252btJ7kiSeu0hQvvGtQ6bWwf0w5lQ%3d%3d
 
 
-
-
 http://www.cypress.com/file/138911/download
+
+software descargado temple
