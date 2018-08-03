@@ -1,4 +1,4 @@
-
+https://es.wikipedia.org/wiki/Windows_bitmap
 
 Windows bitmap
 Desarrollador
