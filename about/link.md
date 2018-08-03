@@ -14,3 +14,8 @@ https://www.mouser.mx/ProductDetail/Intel-Altera/EPM570M100C5N?qs=%2fha2pyFaduhy
 http://www.cypress.com/file/138911/download
 
 software descargado temple
+
+https://es.wikipedia.org/wiki/Windows_bitmap
+
+
+
