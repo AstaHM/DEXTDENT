@@ -5,3 +5,4 @@ https://www.theimagingsource.com/support/documentation/ic-imaging-control-cpp/Pi
 
 SENSOR 
 https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/max2/max2_mii5v1.pdf
+https://www.mouser.mx/ProductDetail/Intel-Altera/EPM570M100C5N?qs=%2fha2pyFaduhy3DJQl5nXcl1%252bNHo%252btJ7kiSeu0hQvvGtQ6bWwf0w5lQ%3d%3d
